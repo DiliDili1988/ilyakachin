@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Technical Writer/Content Developer in IT sphere
 -----------------------------------------------
-I started my journey as an interpreter/translator and worked my may through lots of spheres, starting from legal, construction up to IT and network domains.
+I started my journey as an interpreter/translator and worked my way through lots of spheres, starting from legal, construction up to IT, and network domains.
 
 * 🌍  I'm based in Armenia, Dilijan
 * 🧠  I'm learning API documentation, static site generators
